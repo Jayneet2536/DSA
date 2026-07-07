@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Jayneet2536/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Jayneet2536/DSA/tree/master/0485-max-consecutive-ones) |
+| [1046-last-stone-weight](https://github.com/Jayneet2536/DSA/tree/master/1046-last-stone-weight) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jayneet2536/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Jayneet2536/DSA/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |

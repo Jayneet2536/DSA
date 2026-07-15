@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Jayneet2536/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Jayneet2536/DSA/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayneet2536/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Jayneet2536/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Jayneet2536/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

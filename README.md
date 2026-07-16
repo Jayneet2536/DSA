@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jayneet2536/DSA/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jayneet2536/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Tree
 |  |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jayneet2536/DSA/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jayneet2536/DSA/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jayneet2536/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

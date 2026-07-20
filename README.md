@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Jayneet2536/DSA/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Jayneet2536/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Jayneet2536/DSA/tree/master/0485-max-consecutive-ones) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayneet2536/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -88,4 +89,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jayneet2536/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Jayneet2536/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Jayneet2536/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

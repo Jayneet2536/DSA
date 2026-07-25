@@ -1,0 +1,1 @@
+        while k != 0:            digit = k % 10            k = k // 10            if digit > largest:                largest = digit                secondlargest = largest        largest = -1        nums = []    def maxProduct(self, n: int) -> int:        k = n        secondlargest = -1class Solution:

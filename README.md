@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jayneet2536/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Jayneet2536/DSA/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Jayneet2536/DSA/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jayneet2536/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Tree
 |  |
@@ -91,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jayneet2536/DSA/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Jayneet2536/DSA/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jayneet2536/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Jayneet2536/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Jayneet2536/DSA/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Jayneet2536/DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |

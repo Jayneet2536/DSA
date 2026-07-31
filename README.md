@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Jayneet2536/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jayneet2536/DSA/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Jayneet2536/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Jayneet2536/DSA/tree/master/0485-max-consecutive-ones) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jayneet2536/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Jayneet2536/DSA/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Jayneet2536/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jayneet2536/DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Jayneet2536/DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation

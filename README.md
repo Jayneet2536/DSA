@@ -38,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jayneet2536/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Jayneet2536/DSA/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jayneet2536/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Jayneet2536/DSA/tree/master/0547-number-of-provinces) |
 ## Design
 |  |
 | ------- |
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jayneet2536/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Jayneet2536/DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Jayneet2536/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

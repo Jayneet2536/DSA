@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Jayneet2536/DSA/tree/master/0485-max-consecutive-ones) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayneet2536/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Jayneet2536/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Jayneet2536/DSA/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Jayneet2536/DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jayneet2536/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jayneet2536/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Jayneet2536/DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Jayneet2536/DSA/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jayneet2536/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Jayneet2536/DSA/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Jayneet2536/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Jayneet2536/DSA/tree/master/1020-number-of-enclaves) |
 ## Design
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Jayneet2536/DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Jayneet2536/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -126,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Jayneet2536/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Jayneet2536/DSA/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Jayneet2536/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jayneet2536/DSA/tree/master/0078-subsets) |
+| [0130-surrounded-regions](https://github.com/Jayneet2536/DSA/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Jayneet2536/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Jayneet2536/DSA/tree/master/0485-max-consecutive-ones) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayneet2536/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Jayneet2536/DSA/tree/master/0130-surrounded-regions) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jayneet2536/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Jayneet2536/DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Jayneet2536/DSA/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Jayneet2536/DSA/tree/master/0130-surrounded-regions) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jayneet2536/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Jayneet2536/DSA/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Jayneet2536/DSA/tree/master/0994-rotting-oranges) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Jayneet2536/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Jayneet2536/DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Jayneet2536/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Jayneet2536/DSA/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Jayneet2536/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Jayneet2536/DSA/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->

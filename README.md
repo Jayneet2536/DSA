@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Jayneet2536/DSA/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Jayneet2536/DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jayneet2536/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jayneet2536/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
 | ------- |

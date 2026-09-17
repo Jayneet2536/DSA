@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Jayneet2536/DSA/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Jayneet2536/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Jayneet2536/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jayneet2536/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Jayneet2536/DSA/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Jayneet2536/DSA/tree/master/0503-next-greater-element-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayneet2536/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Jayneet2536/DSA/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jayneet2536/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Jayneet2536/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jayneet2536/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jayneet2536/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Jayneet2536/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jayneet2536/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayneet2536/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jayneet2536/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jayneet2536/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jayneet2536/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/Jayneet2536/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jayneet2536/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Union-Find
 |  |
 | ------- |

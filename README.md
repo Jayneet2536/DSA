@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Jayneet2536/DSA/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Jayneet2536/DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Jayneet2536/DSA/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Jayneet2536/DSA/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Jayneet2536/DSA/tree/master/0189-rotate-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Jayneet2536/DSA/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/Jayneet2536/DSA/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Jayneet2536/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Jayneet2536/DSA/tree/master/1020-number-of-enclaves) |
@@ -162,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Jayneet2536/DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Jayneet2536/DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->

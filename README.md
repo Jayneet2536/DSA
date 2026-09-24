@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Jayneet2536/DSA/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Jayneet2536/DSA/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Jayneet2536/DSA/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Jayneet2536/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Jayneet2536/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Jayneet2536/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jayneet2536/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Jayneet2536/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Jayneet2536/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jayneet2536/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayneet2536/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jayneet2536/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0229-majority-element-ii](https://github.com/Jayneet2536/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Jayneet2536/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jayneet2536/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Union-Find
@@ -191,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Jayneet2536/DSA/tree/master/0402-remove-k-digits) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Jayneet2536/DSA/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Jayneet2536/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

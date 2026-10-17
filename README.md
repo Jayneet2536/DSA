@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Jayneet2536/DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jayneet2536/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jayneet2536/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/Jayneet2536/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jayneet2536/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jayneet2536/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jayneet2536/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1901-find-a-peak-element-ii](https://github.com/Jayneet2536/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Jayneet2536/DSA/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Jayneet2536/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Jayneet2536/DSA/tree/master/1020-number-of-enclaves) |
+| [1901-find-a-peak-element-ii](https://github.com/Jayneet2536/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Stack
 |  |
 | ------- |

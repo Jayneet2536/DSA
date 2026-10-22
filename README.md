@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jayneet2536/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Jayneet2536/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Jayneet2536/DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Jayneet2536/DSA/tree/master/0078-subsets) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jayneet2536/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Jayneet2536/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Jayneet2536/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Jayneet2536/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jayneet2536/DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Jayneet2536/DSA/tree/master/0131-palindrome-partitioning) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jayneet2536/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Jayneet2536/DSA/tree/master/0037-sudoku-solver) |
 | [0229-majority-element-ii](https://github.com/Jayneet2536/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Jayneet2536/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jayneet2536/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jayneet2536/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Jayneet2536/DSA/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/Jayneet2536/DSA/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Jayneet2536/DSA/tree/master/0994-rotting-oranges) |
@@ -205,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Jayneet2536/DSA/tree/master/0229-majority-element-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Jayneet2536/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Jayneet2536/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

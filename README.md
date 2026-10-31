@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Jayneet2536/DSA/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Jayneet2536/DSA/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jayneet2536/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Jayneet2536/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -221,5 +222,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Jayneet2536/DSA/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Jayneet2536/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

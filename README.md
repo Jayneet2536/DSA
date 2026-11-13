@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Jayneet2536/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Jayneet2536/DSA/tree/master/0268-missing-number) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Jayneet2536/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
 | ------- |
